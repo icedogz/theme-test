@@ -1,0 +1,14 @@
+{
+  "name": "dsafdsfadsfdsfdsazzzzz",
+  "theme": "syntax",
+  "version": "1.0.1",
+  "description": "ทดสอบ seo",
+  "keywords": [
+    "test seo description"
+  ],
+  "repository": "https://github.com/icedogz/theme-test",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
